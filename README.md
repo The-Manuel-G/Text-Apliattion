@@ -13,7 +13,7 @@ Este proyecto contiene una serie de pruebas automatizadas utilizando Selenium pa
 
 1. **Clonar el Repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto.git
+    git clone https://github.com/The-Manuel-G/Text-Apliattion.git
     ```
 
 2. **Abrir el Proyecto:**
