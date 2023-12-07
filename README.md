@@ -5,7 +5,7 @@
 Este proyecto contiene una serie de pruebas automatizadas utilizando Selenium para la aplicación web localizada en `http://localhost:5181`. Las pruebas incluyen la configuración del entorno, la adición de un accidente, la comprobación del diseño responsivo y la limpieza posterior.
 
  
-## Instlacion 
+## Instalacion 
 
 1. **Clonar el Repositorio:**
     ```bash
