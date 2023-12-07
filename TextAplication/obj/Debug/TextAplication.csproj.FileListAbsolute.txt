@@ -1,0 +1,13 @@
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\obj\Debug\TextAplication.csproj.AssemblyReference.cache
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\obj\Debug\TextAplication.csproj.CoreCompileInputs.cache
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\TextAplication.exe.config
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\TextAplication.exe
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\TextAplication.pdb
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\WebDriver.dll
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\bin\Debug\WebDriver.Support.dll
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\obj\Debug\TextAplication.csproj.CopyComplete
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\obj\Debug\TextAplication.exe
+C:\Users\The Manuel\Documents\Progrmacion web\TextAplication\TextAplication\obj\Debug\TextAplication.pdb
